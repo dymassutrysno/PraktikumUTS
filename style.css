@@ -1,0 +1,55 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F2FFE9;
+}
+legend{
+    font-weight: bolder;
+}
+.kotak1{
+    padding: 20px 0px 0px 45px;
+}
+input, select{
+    height: 25px;
+}
+input, select, textarea{
+    border: 2px solid black;
+    border-radius: 7px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.text{
+    text-align: end;
+    font-weight: bold;
+}
+button{
+    margin: 25px 0px 15px 55px;
+    padding: 3px;
+}
+#foto1{
+    height: 250px;
+    border: 5px solid black;
+    border-radius: 50px;
+}
+.bagian2{
+    margin: 50px;
+    display: flex;
+}
+p{
+    text-align: justify;
+    margin: 25px 0px 0px 50px;
+    border: 1px solid #A6CF98;
+    background-color: #A6CF98;
+    padding: 13px;
+}
+h3{
+    text-align: center;
+}
+#foto2{
+    height: 275px;
+    border: 5px solid black;
+    border-radius: 50px;
+}
+button{
+    background-color: #557C55;
+    color: #F2FFE9;
+}
